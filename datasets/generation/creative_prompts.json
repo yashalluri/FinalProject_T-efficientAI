@@ -1,0 +1,1002 @@
+[
+  {
+    "id": "gen_0",
+    "prompt": "Write a short story about an AI that learns to dream",
+    "category": "generation",
+    "subcategory": "creative",
+    "source": "manual",
+    "length": 52,
+    "word_count": 11,
+    "variation": 0
+  },
+  {
+    "id": "gen_1",
+    "prompt": "Draft write a short story about an ai that learns to dream",
+    "category": "generation",
+    "subcategory": "creative",
+    "source": "manual",
+    "length": 58,
+    "word_count": 12,
+    "variation": 1
+  },
+  {
+    "id": "gen_2",
+    "prompt": "Write a short story about an AI that learns to dream. Be detailed and creative.",
+    "category": "generation",
+    "subcategory": "creative",
+    "source": "manual",
+    "length": 79,
+    "word_count": 15,
+    "variation": 2
+  },
+  {
+    "id": "gen_3",
+    "prompt": "Describe a futuristic city in the year 2100",
+    "category": "generation",
+    "subcategory": "creative",
+    "source": "manual",
+    "length": 43,
+    "word_count": 8,
+    "variation": 0
+  },
+  {
+    "id": "gen_4",
+    "prompt": "Write describe a futuristic city in the year 2100",
+    "category": "generation",
+    "subcategory": "creative",
+    "source": "manual",
+    "length": 49,
+    "word_count": 9,
+    "variation": 1
+  },
+  {
+    "id": "gen_5",
+    "prompt": "Describe a futuristic city in the year 2100. Be detailed and creative.",
+    "category": "generation",
+    "subcategory": "creative",
+    "source": "manual",
+    "length": 70,
+    "word_count": 12,
+    "variation": 2
+  },
+  {
+    "id": "gen_6",
+    "prompt": "Create a poem about the ocean",
+    "category": "generation",
+    "subcategory": "creative",
+    "source": "manual",
+    "length": 29,
+    "word_count": 6,
+    "variation": 0
+  },
+  {
+    "id": "gen_7",
+    "prompt": "Compose create a poem about the ocean",
+    "category": "generation",
+    "subcategory": "creative",
+    "source": "manual",
+    "length": 37,
+    "word_count": 7,
+    "variation": 1
+  },
+  {
+    "id": "gen_8",
+    "prompt": "Create a poem about the ocean. Be detailed and creative.",
+    "category": "generation",
+    "subcategory": "creative",
+    "source": "manual",
+    "length": 56,
+    "word_count": 10,
+    "variation": 2
+  },
+  {
+    "id": "gen_9",
+    "prompt": "Write a product description for a smartwatch",
+    "category": "generation",
+    "subcategory": "creative",
+    "source": "manual",
+    "length": 44,
+    "word_count": 7,
+    "variation": 0
+  },
+  {
+    "id": "gen_10",
+    "prompt": "Create write a product description for a smartwatch",
+    "category": "generation",
+    "subcategory": "creative",
+    "source": "manual",
+    "length": 51,
+    "word_count": 8,
+    "variation": 1
+  },
+  {
+    "id": "gen_11",
+    "prompt": "Write a product description for a smartwatch. Be detailed and creative.",
+    "category": "generation",
+    "subcategory": "creative",
+    "source": "manual",
+    "length": 71,
+    "word_count": 11,
+    "variation": 2
+  },
+  {
+    "id": "gen_12",
+    "prompt": "Draft an email to a colleague about a project update",
+    "category": "generation",
+    "subcategory": "creative",
+    "source": "manual",
+    "length": 52,
+    "word_count": 10,
+    "variation": 0
+  },
+  {
+    "id": "gen_13",
+    "prompt": "Please draft an email to a colleague about a project update",
+    "category": "generation",
+    "subcategory": "creative",
+    "source": "manual",
+    "length": 59,
+    "word_count": 11,
+    "variation": 1
+  },
+  {
+    "id": "gen_14",
+    "prompt": "Draft an email to a colleague about a project update. Be detailed and creative.",
+    "category": "generation",
+    "subcategory": "creative",
+    "source": "manual",
+    "length": 79,
+    "word_count": 14,
+    "variation": 2
+  },
+  {
+    "id": "gen_15",
+    "prompt": "Compose a thank you letter to a mentor",
+    "category": "generation",
+    "subcategory": "creative",
+    "source": "manual",
+    "length": 38,
+    "word_count": 8,
+    "variation": 0
+  },
+  {
+    "id": "gen_16",
+    "prompt": "Draft compose a thank you letter to a mentor",
+    "category": "generation",
+    "subcategory": "creative",
+    "source": "manual",
+    "length": 44,
+    "word_count": 9,
+    "variation": 1
+  },
+  {
+    "id": "gen_17",
+    "prompt": "Compose a thank you letter to a mentor. Be detailed and creative.",
+    "category": "generation",
+    "subcategory": "creative",
+    "source": "manual",
+    "length": 65,
+    "word_count": 12,
+    "variation": 2
+  },
+  {
+    "id": "gen_18",
+    "prompt": "Write instructions for making coffee",
+    "category": "generation",
+    "subcategory": "creative",
+    "source": "manual",
+    "length": 36,
+    "word_count": 5,
+    "variation": 0
+  },
+  {
+    "id": "gen_19",
+    "prompt": "Compose write instructions for making coffee",
+    "category": "generation",
+    "subcategory": "creative",
+    "source": "manual",
+    "length": 44,
+    "word_count": 6,
+    "variation": 1
+  },
+  {
+    "id": "gen_20",
+    "prompt": "Write instructions for making coffee. Be detailed and creative.",
+    "category": "generation",
+    "subcategory": "creative",
+    "source": "manual",
+    "length": 63,
+    "word_count": 9,
+    "variation": 2
+  },
+  {
+    "id": "gen_21",
+    "prompt": "Describe how photosynthesis works",
+    "category": "generation",
+    "subcategory": "creative",
+    "source": "manual",
+    "length": 33,
+    "word_count": 4,
+    "variation": 0
+  },
+  {
+    "id": "gen_22",
+    "prompt": "Compose describe how photosynthesis works",
+    "category": "generation",
+    "subcategory": "creative",
+    "source": "manual",
+    "length": 41,
+    "word_count": 5,
+    "variation": 1
+  },
+  {
+    "id": "gen_23",
+    "prompt": "Describe how photosynthesis works. Be detailed and creative.",
+    "category": "generation",
+    "subcategory": "creative",
+    "source": "manual",
+    "length": 60,
+    "word_count": 8,
+    "variation": 2
+  },
+  {
+    "id": "gen_24",
+    "prompt": "Explain quantum computing to a 10-year-old",
+    "category": "generation",
+    "subcategory": "creative",
+    "source": "manual",
+    "length": 42,
+    "word_count": 6,
+    "variation": 0
+  },
+  {
+    "id": "gen_25",
+    "prompt": "Compose explain quantum computing to a 10-year-old",
+    "category": "generation",
+    "subcategory": "creative",
+    "source": "manual",
+    "length": 50,
+    "word_count": 7,
+    "variation": 1
+  },
+  {
+    "id": "gen_26",
+    "prompt": "Explain quantum computing to a 10-year-old. Be detailed and creative.",
+    "category": "generation",
+    "subcategory": "creative",
+    "source": "manual",
+    "length": 69,
+    "word_count": 10,
+    "variation": 2
+  },
+  {
+    "id": "gen_27",
+    "prompt": "Write a blog post about sustainable living",
+    "category": "generation",
+    "subcategory": "creative",
+    "source": "manual",
+    "length": 42,
+    "word_count": 7,
+    "variation": 0
+  },
+  {
+    "id": "gen_28",
+    "prompt": "Please write a blog post about sustainable living",
+    "category": "generation",
+    "subcategory": "creative",
+    "source": "manual",
+    "length": 49,
+    "word_count": 8,
+    "variation": 1
+  },
+  {
+    "id": "gen_29",
+    "prompt": "Write a blog post about sustainable living. Be detailed and creative.",
+    "category": "generation",
+    "subcategory": "creative",
+    "source": "manual",
+    "length": 69,
+    "word_count": 11,
+    "variation": 2
+  },
+  {
+    "id": "gen_30",
+    "prompt": "Write a short story about an AI that learns to dream",
+    "category": "generation",
+    "subcategory": "creative",
+    "source": "manual",
+    "length": 52,
+    "word_count": 11,
+    "variation": 0
+  },
+  {
+    "id": "gen_31",
+    "prompt": "Create write a short story about an ai that learns to dream",
+    "category": "generation",
+    "subcategory": "creative",
+    "source": "manual",
+    "length": 59,
+    "word_count": 12,
+    "variation": 1
+  },
+  {
+    "id": "gen_32",
+    "prompt": "Write a short story about an AI that learns to dream. Be detailed and creative.",
+    "category": "generation",
+    "subcategory": "creative",
+    "source": "manual",
+    "length": 79,
+    "word_count": 15,
+    "variation": 2
+  },
+  {
+    "id": "gen_33",
+    "prompt": "Describe a futuristic city in the year 2100",
+    "category": "generation",
+    "subcategory": "creative",
+    "source": "manual",
+    "length": 43,
+    "word_count": 8,
+    "variation": 0
+  },
+  {
+    "id": "gen_34",
+    "prompt": "Draft describe a futuristic city in the year 2100",
+    "category": "generation",
+    "subcategory": "creative",
+    "source": "manual",
+    "length": 49,
+    "word_count": 9,
+    "variation": 1
+  },
+  {
+    "id": "gen_35",
+    "prompt": "Describe a futuristic city in the year 2100. Be detailed and creative.",
+    "category": "generation",
+    "subcategory": "creative",
+    "source": "manual",
+    "length": 70,
+    "word_count": 12,
+    "variation": 2
+  },
+  {
+    "id": "gen_36",
+    "prompt": "Create a poem about the ocean",
+    "category": "generation",
+    "subcategory": "creative",
+    "source": "manual",
+    "length": 29,
+    "word_count": 6,
+    "variation": 0
+  },
+  {
+    "id": "gen_37",
+    "prompt": "Please create a poem about the ocean",
+    "category": "generation",
+    "subcategory": "creative",
+    "source": "manual",
+    "length": 36,
+    "word_count": 7,
+    "variation": 1
+  },
+  {
+    "id": "gen_38",
+    "prompt": "Create a poem about the ocean. Be detailed and creative.",
+    "category": "generation",
+    "subcategory": "creative",
+    "source": "manual",
+    "length": 56,
+    "word_count": 10,
+    "variation": 2
+  },
+  {
+    "id": "gen_39",
+    "prompt": "Write a product description for a smartwatch",
+    "category": "generation",
+    "subcategory": "creative",
+    "source": "manual",
+    "length": 44,
+    "word_count": 7,
+    "variation": 0
+  },
+  {
+    "id": "gen_40",
+    "prompt": "Please write a product description for a smartwatch",
+    "category": "generation",
+    "subcategory": "creative",
+    "source": "manual",
+    "length": 51,
+    "word_count": 8,
+    "variation": 1
+  },
+  {
+    "id": "gen_41",
+    "prompt": "Write a product description for a smartwatch. Be detailed and creative.",
+    "category": "generation",
+    "subcategory": "creative",
+    "source": "manual",
+    "length": 71,
+    "word_count": 11,
+    "variation": 2
+  },
+  {
+    "id": "gen_42",
+    "prompt": "Draft an email to a colleague about a project update",
+    "category": "generation",
+    "subcategory": "creative",
+    "source": "manual",
+    "length": 52,
+    "word_count": 10,
+    "variation": 0
+  },
+  {
+    "id": "gen_43",
+    "prompt": "Please draft an email to a colleague about a project update",
+    "category": "generation",
+    "subcategory": "creative",
+    "source": "manual",
+    "length": 59,
+    "word_count": 11,
+    "variation": 1
+  },
+  {
+    "id": "gen_44",
+    "prompt": "Draft an email to a colleague about a project update. Be detailed and creative.",
+    "category": "generation",
+    "subcategory": "creative",
+    "source": "manual",
+    "length": 79,
+    "word_count": 14,
+    "variation": 2
+  },
+  {
+    "id": "gen_45",
+    "prompt": "Compose a thank you letter to a mentor",
+    "category": "generation",
+    "subcategory": "creative",
+    "source": "manual",
+    "length": 38,
+    "word_count": 8,
+    "variation": 0
+  },
+  {
+    "id": "gen_46",
+    "prompt": "Generate compose a thank you letter to a mentor",
+    "category": "generation",
+    "subcategory": "creative",
+    "source": "manual",
+    "length": 47,
+    "word_count": 9,
+    "variation": 1
+  },
+  {
+    "id": "gen_47",
+    "prompt": "Compose a thank you letter to a mentor. Be detailed and creative.",
+    "category": "generation",
+    "subcategory": "creative",
+    "source": "manual",
+    "length": 65,
+    "word_count": 12,
+    "variation": 2
+  },
+  {
+    "id": "gen_48",
+    "prompt": "Write instructions for making coffee",
+    "category": "generation",
+    "subcategory": "creative",
+    "source": "manual",
+    "length": 36,
+    "word_count": 5,
+    "variation": 0
+  },
+  {
+    "id": "gen_49",
+    "prompt": "Compose write instructions for making coffee",
+    "category": "generation",
+    "subcategory": "creative",
+    "source": "manual",
+    "length": 44,
+    "word_count": 6,
+    "variation": 1
+  },
+  {
+    "id": "gen_50",
+    "prompt": "Write instructions for making coffee. Be detailed and creative.",
+    "category": "generation",
+    "subcategory": "creative",
+    "source": "manual",
+    "length": 63,
+    "word_count": 9,
+    "variation": 2
+  },
+  {
+    "id": "gen_51",
+    "prompt": "Describe how photosynthesis works",
+    "category": "generation",
+    "subcategory": "creative",
+    "source": "manual",
+    "length": 33,
+    "word_count": 4,
+    "variation": 0
+  },
+  {
+    "id": "gen_52",
+    "prompt": "Write describe how photosynthesis works",
+    "category": "generation",
+    "subcategory": "creative",
+    "source": "manual",
+    "length": 39,
+    "word_count": 5,
+    "variation": 1
+  },
+  {
+    "id": "gen_53",
+    "prompt": "Describe how photosynthesis works. Be detailed and creative.",
+    "category": "generation",
+    "subcategory": "creative",
+    "source": "manual",
+    "length": 60,
+    "word_count": 8,
+    "variation": 2
+  },
+  {
+    "id": "gen_54",
+    "prompt": "Explain quantum computing to a 10-year-old",
+    "category": "generation",
+    "subcategory": "creative",
+    "source": "manual",
+    "length": 42,
+    "word_count": 6,
+    "variation": 0
+  },
+  {
+    "id": "gen_55",
+    "prompt": "Write explain quantum computing to a 10-year-old",
+    "category": "generation",
+    "subcategory": "creative",
+    "source": "manual",
+    "length": 48,
+    "word_count": 7,
+    "variation": 1
+  },
+  {
+    "id": "gen_56",
+    "prompt": "Explain quantum computing to a 10-year-old. Be detailed and creative.",
+    "category": "generation",
+    "subcategory": "creative",
+    "source": "manual",
+    "length": 69,
+    "word_count": 10,
+    "variation": 2
+  },
+  {
+    "id": "gen_57",
+    "prompt": "Write a blog post about sustainable living",
+    "category": "generation",
+    "subcategory": "creative",
+    "source": "manual",
+    "length": 42,
+    "word_count": 7,
+    "variation": 0
+  },
+  {
+    "id": "gen_58",
+    "prompt": "Generate write a blog post about sustainable living",
+    "category": "generation",
+    "subcategory": "creative",
+    "source": "manual",
+    "length": 51,
+    "word_count": 8,
+    "variation": 1
+  },
+  {
+    "id": "gen_59",
+    "prompt": "Write a blog post about sustainable living. Be detailed and creative.",
+    "category": "generation",
+    "subcategory": "creative",
+    "source": "manual",
+    "length": 69,
+    "word_count": 11,
+    "variation": 2
+  },
+  {
+    "id": "gen_60",
+    "prompt": "Write a short story about an AI that learns to dream",
+    "category": "generation",
+    "subcategory": "creative",
+    "source": "manual",
+    "length": 52,
+    "word_count": 11,
+    "variation": 0
+  },
+  {
+    "id": "gen_61",
+    "prompt": "Create write a short story about an ai that learns to dream",
+    "category": "generation",
+    "subcategory": "creative",
+    "source": "manual",
+    "length": 59,
+    "word_count": 12,
+    "variation": 1
+  },
+  {
+    "id": "gen_62",
+    "prompt": "Write a short story about an AI that learns to dream. Be detailed and creative.",
+    "category": "generation",
+    "subcategory": "creative",
+    "source": "manual",
+    "length": 79,
+    "word_count": 15,
+    "variation": 2
+  },
+  {
+    "id": "gen_63",
+    "prompt": "Describe a futuristic city in the year 2100",
+    "category": "generation",
+    "subcategory": "creative",
+    "source": "manual",
+    "length": 43,
+    "word_count": 8,
+    "variation": 0
+  },
+  {
+    "id": "gen_64",
+    "prompt": "I need you to describe a futuristic city in the year 2100",
+    "category": "generation",
+    "subcategory": "creative",
+    "source": "manual",
+    "length": 57,
+    "word_count": 12,
+    "variation": 1
+  },
+  {
+    "id": "gen_65",
+    "prompt": "Describe a futuristic city in the year 2100. Be detailed and creative.",
+    "category": "generation",
+    "subcategory": "creative",
+    "source": "manual",
+    "length": 70,
+    "word_count": 12,
+    "variation": 2
+  },
+  {
+    "id": "gen_66",
+    "prompt": "Create a poem about the ocean",
+    "category": "generation",
+    "subcategory": "creative",
+    "source": "manual",
+    "length": 29,
+    "word_count": 6,
+    "variation": 0
+  },
+  {
+    "id": "gen_67",
+    "prompt": "Draft create a poem about the ocean",
+    "category": "generation",
+    "subcategory": "creative",
+    "source": "manual",
+    "length": 35,
+    "word_count": 7,
+    "variation": 1
+  },
+  {
+    "id": "gen_68",
+    "prompt": "Create a poem about the ocean. Be detailed and creative.",
+    "category": "generation",
+    "subcategory": "creative",
+    "source": "manual",
+    "length": 56,
+    "word_count": 10,
+    "variation": 2
+  },
+  {
+    "id": "gen_69",
+    "prompt": "Write a product description for a smartwatch",
+    "category": "generation",
+    "subcategory": "creative",
+    "source": "manual",
+    "length": 44,
+    "word_count": 7,
+    "variation": 0
+  },
+  {
+    "id": "gen_70",
+    "prompt": "Draft write a product description for a smartwatch",
+    "category": "generation",
+    "subcategory": "creative",
+    "source": "manual",
+    "length": 50,
+    "word_count": 8,
+    "variation": 1
+  },
+  {
+    "id": "gen_71",
+    "prompt": "Write a product description for a smartwatch. Be detailed and creative.",
+    "category": "generation",
+    "subcategory": "creative",
+    "source": "manual",
+    "length": 71,
+    "word_count": 11,
+    "variation": 2
+  },
+  {
+    "id": "gen_72",
+    "prompt": "Draft an email to a colleague about a project update",
+    "category": "generation",
+    "subcategory": "creative",
+    "source": "manual",
+    "length": 52,
+    "word_count": 10,
+    "variation": 0
+  },
+  {
+    "id": "gen_73",
+    "prompt": "Can you draft an email to a colleague about a project update",
+    "category": "generation",
+    "subcategory": "creative",
+    "source": "manual",
+    "length": 60,
+    "word_count": 12,
+    "variation": 1
+  },
+  {
+    "id": "gen_74",
+    "prompt": "Draft an email to a colleague about a project update. Be detailed and creative.",
+    "category": "generation",
+    "subcategory": "creative",
+    "source": "manual",
+    "length": 79,
+    "word_count": 14,
+    "variation": 2
+  },
+  {
+    "id": "gen_75",
+    "prompt": "Compose a thank you letter to a mentor",
+    "category": "generation",
+    "subcategory": "creative",
+    "source": "manual",
+    "length": 38,
+    "word_count": 8,
+    "variation": 0
+  },
+  {
+    "id": "gen_76",
+    "prompt": "Can you compose a thank you letter to a mentor",
+    "category": "generation",
+    "subcategory": "creative",
+    "source": "manual",
+    "length": 46,
+    "word_count": 10,
+    "variation": 1
+  },
+  {
+    "id": "gen_77",
+    "prompt": "Compose a thank you letter to a mentor. Be detailed and creative.",
+    "category": "generation",
+    "subcategory": "creative",
+    "source": "manual",
+    "length": 65,
+    "word_count": 12,
+    "variation": 2
+  },
+  {
+    "id": "gen_78",
+    "prompt": "Write instructions for making coffee",
+    "category": "generation",
+    "subcategory": "creative",
+    "source": "manual",
+    "length": 36,
+    "word_count": 5,
+    "variation": 0
+  },
+  {
+    "id": "gen_79",
+    "prompt": "Can you write instructions for making coffee",
+    "category": "generation",
+    "subcategory": "creative",
+    "source": "manual",
+    "length": 44,
+    "word_count": 7,
+    "variation": 1
+  },
+  {
+    "id": "gen_80",
+    "prompt": "Write instructions for making coffee. Be detailed and creative.",
+    "category": "generation",
+    "subcategory": "creative",
+    "source": "manual",
+    "length": 63,
+    "word_count": 9,
+    "variation": 2
+  },
+  {
+    "id": "gen_81",
+    "prompt": "Describe how photosynthesis works",
+    "category": "generation",
+    "subcategory": "creative",
+    "source": "manual",
+    "length": 33,
+    "word_count": 4,
+    "variation": 0
+  },
+  {
+    "id": "gen_82",
+    "prompt": "I need you to describe how photosynthesis works",
+    "category": "generation",
+    "subcategory": "creative",
+    "source": "manual",
+    "length": 47,
+    "word_count": 8,
+    "variation": 1
+  },
+  {
+    "id": "gen_83",
+    "prompt": "Describe how photosynthesis works. Be detailed and creative.",
+    "category": "generation",
+    "subcategory": "creative",
+    "source": "manual",
+    "length": 60,
+    "word_count": 8,
+    "variation": 2
+  },
+  {
+    "id": "gen_84",
+    "prompt": "Explain quantum computing to a 10-year-old",
+    "category": "generation",
+    "subcategory": "creative",
+    "source": "manual",
+    "length": 42,
+    "word_count": 6,
+    "variation": 0
+  },
+  {
+    "id": "gen_85",
+    "prompt": "Compose explain quantum computing to a 10-year-old",
+    "category": "generation",
+    "subcategory": "creative",
+    "source": "manual",
+    "length": 50,
+    "word_count": 7,
+    "variation": 1
+  },
+  {
+    "id": "gen_86",
+    "prompt": "Explain quantum computing to a 10-year-old. Be detailed and creative.",
+    "category": "generation",
+    "subcategory": "creative",
+    "source": "manual",
+    "length": 69,
+    "word_count": 10,
+    "variation": 2
+  },
+  {
+    "id": "gen_87",
+    "prompt": "Write a blog post about sustainable living",
+    "category": "generation",
+    "subcategory": "creative",
+    "source": "manual",
+    "length": 42,
+    "word_count": 7,
+    "variation": 0
+  },
+  {
+    "id": "gen_88",
+    "prompt": "Can you write a blog post about sustainable living",
+    "category": "generation",
+    "subcategory": "creative",
+    "source": "manual",
+    "length": 50,
+    "word_count": 9,
+    "variation": 1
+  },
+  {
+    "id": "gen_89",
+    "prompt": "Write a blog post about sustainable living. Be detailed and creative.",
+    "category": "generation",
+    "subcategory": "creative",
+    "source": "manual",
+    "length": 69,
+    "word_count": 11,
+    "variation": 2
+  },
+  {
+    "id": "gen_90",
+    "prompt": "Write a short story about an AI that learns to dream",
+    "category": "generation",
+    "subcategory": "creative",
+    "source": "manual",
+    "length": 52,
+    "word_count": 11,
+    "variation": 0
+  },
+  {
+    "id": "gen_91",
+    "prompt": "Create write a short story about an ai that learns to dream",
+    "category": "generation",
+    "subcategory": "creative",
+    "source": "manual",
+    "length": 59,
+    "word_count": 12,
+    "variation": 1
+  },
+  {
+    "id": "gen_92",
+    "prompt": "Write a short story about an AI that learns to dream. Be detailed and creative.",
+    "category": "generation",
+    "subcategory": "creative",
+    "source": "manual",
+    "length": 79,
+    "word_count": 15,
+    "variation": 2
+  },
+  {
+    "id": "gen_93",
+    "prompt": "Describe a futuristic city in the year 2100",
+    "category": "generation",
+    "subcategory": "creative",
+    "source": "manual",
+    "length": 43,
+    "word_count": 8,
+    "variation": 0
+  },
+  {
+    "id": "gen_94",
+    "prompt": "Create describe a futuristic city in the year 2100",
+    "category": "generation",
+    "subcategory": "creative",
+    "source": "manual",
+    "length": 50,
+    "word_count": 9,
+    "variation": 1
+  },
+  {
+    "id": "gen_95",
+    "prompt": "Describe a futuristic city in the year 2100. Be detailed and creative.",
+    "category": "generation",
+    "subcategory": "creative",
+    "source": "manual",
+    "length": 70,
+    "word_count": 12,
+    "variation": 2
+  },
+  {
+    "id": "gen_96",
+    "prompt": "Create a poem about the ocean",
+    "category": "generation",
+    "subcategory": "creative",
+    "source": "manual",
+    "length": 29,
+    "word_count": 6,
+    "variation": 0
+  },
+  {
+    "id": "gen_97",
+    "prompt": "Please create a poem about the ocean",
+    "category": "generation",
+    "subcategory": "creative",
+    "source": "manual",
+    "length": 36,
+    "word_count": 7,
+    "variation": 1
+  },
+  {
+    "id": "gen_98",
+    "prompt": "Create a poem about the ocean. Be detailed and creative.",
+    "category": "generation",
+    "subcategory": "creative",
+    "source": "manual",
+    "length": 56,
+    "word_count": 10,
+    "variation": 2
+  },
+  {
+    "id": "gen_99",
+    "prompt": "Write a product description for a smartwatch",
+    "category": "generation",
+    "subcategory": "creative",
+    "source": "manual",
+    "length": 44,
+    "word_count": 7,
+    "variation": 0
+  }
+]

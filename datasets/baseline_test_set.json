@@ -1,0 +1,72 @@
+[
+  {
+    "id": "baseline_0",
+    "prompt": "What is the capital of France?",
+    "type": "short_factual",
+    "length": 30,
+    "word_count": 6
+  },
+  {
+    "id": "baseline_1",
+    "prompt": "Who wrote Romeo and Juliet?",
+    "type": "short_factual",
+    "length": 27,
+    "word_count": 5
+  },
+  {
+    "id": "baseline_2",
+    "prompt": "Explain how photosynthesis works.",
+    "type": "medium_factual",
+    "length": 33,
+    "word_count": 4
+  },
+  {
+    "id": "baseline_3",
+    "prompt": "What are the main causes of climate change?",
+    "type": "medium_factual",
+    "length": 43,
+    "word_count": 8
+  },
+  {
+    "id": "baseline_4",
+    "prompt": "Provide a detailed explanation of how the internet works, including DNS, TCP/IP, and HTTP.",
+    "type": "long_factual",
+    "length": 90,
+    "word_count": 14
+  },
+  {
+    "id": "baseline_5",
+    "prompt": "Write a haiku about technology.",
+    "type": "creative_short",
+    "length": 31,
+    "word_count": 5
+  },
+  {
+    "id": "baseline_6",
+    "prompt": "Write a short story about a robot learning to paint. Make it emotional and engaging.",
+    "type": "creative_long",
+    "length": 84,
+    "word_count": 15
+  },
+  {
+    "id": "baseline_7",
+    "prompt": "Analyze the pros and cons of remote work.",
+    "type": "analytical",
+    "length": 41,
+    "word_count": 8
+  },
+  {
+    "id": "baseline_8",
+    "prompt": "Compare and contrast democracy and monarchy.",
+    "type": "analytical",
+    "length": 44,
+    "word_count": 6
+  },
+  {
+    "id": "baseline_9",
+    "prompt": "Please carefully analyze the following and provide a detailed, step-by-step explanation with examples: What is machine learning?",
+    "type": "instruction_heavy",
+    "length": 128,
+    "word_count": 17
+  }
+]
